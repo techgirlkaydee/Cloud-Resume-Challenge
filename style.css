@@ -1,0 +1,36 @@
+.container{
+    width: 70%;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif
+}
+
+header{
+    background-color: pink;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+header p{
+    font-size: 18px;
+    font-weight: medium;
+}
+
+h2{
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+}
+
+.floaters{
+    float: right;
+    text-align: right;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.pad{
+    padding-bottom: 2%;
+}
