@@ -1,14 +1,19 @@
 .container{
     width: 70%;
     margin: 0 auto;
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Calibri', Times New Roman, serif;
 }
 
 header{
-    background-color: pink;
+    background-color: rgb(0, 255, 234);
+    font-family: 'Calibri', Times New Roman, serif;
     text-align: center;
     padding-bottom: 2%;
     padding-top: 2%;
+}
+
+h1 {
+    font-size: 38px;
 }
 
 header p{
@@ -16,8 +21,13 @@ header p{
     font-weight: medium;
 }
 
+.link {
+    color: black;
+}
+
 h2{
-    text-align: center;
+    text-align: left;
+    text-decoration: underline;
 }
 
 span{
@@ -31,6 +41,11 @@ span{
     font-style: italic;
 }
 
-.pad{
+.experience{
     padding-bottom: 2%;
+}
+
+.icons{
+    height: 15px;
+
 }
